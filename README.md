@@ -2,17 +2,17 @@
 
 ## I'm a beginner Python developer. Study it's my passion!
 
-### Languages and Tools
+### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=Github)
 ![GitLab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=Gitlab)
 ![Visual-Studio-Code](https://img.shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=2A9D8F)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgreSQL)
-![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgreSQL&logoColor=219EBC)
+![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=8ECAE6)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Amazon_AWS](https://img.shields.io/badge/-Amazon_AWS-090909?style=for-the-badge&logo=Amazon-AWS)
-![Heroku](https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=Heroku)
+![Heroku](https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=Heroku&logoColor=7209B7)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-090909?style=for-the-badge&logo=Ubuntu)
 
 ### 📫  How to reach me
