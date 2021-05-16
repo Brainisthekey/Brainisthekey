@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=Github)
 ![GitLab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=Gitlab)
 ![Visual-Studio-Code](https://img.shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC)
-![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm)
+![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logiColor=2A9D8F)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
