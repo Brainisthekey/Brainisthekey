@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Brainisthekey/Brainisthekey/blob/main/assets/image.jpg)
 
 About me
 
