@@ -1,6 +1,6 @@
 ![Header](https://github.com/Brainisthekey/Brainisthekey/blob/main/assets/profile%20image.png)
 
-About me
+## I'm a beginner Python developer. Study it's my passion!
 
 Languages and Tools
 
