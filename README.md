@@ -1,8 +1,16 @@
 ![Header](https://github.com/Brainisthekey/Brainisthekey/blob/main/assets/profile%20image.png)
 
-## I'm a beginner Python developer. Study it's my passion!
-
-### 🛠️ Languages and Tools:
+## Hey there, I'm Andrew 👋
+### About me 🚀
+#### I'm a beginner Python developer💻
+#### I enjoy learning new things🧠
+#### I'm currently studying in Wroclaw, Poland🌍
+#### In my free time, I study programing and designing in Figma✍
+#### Also my passion is photography and modern Art🖼️
+### 💻 Latest project
+#### Curently work at Crypto CLI application💼
+[![GitLab](https://img.shields.io/badge/-GitLab-2000b1?&logo=GitLab&)](https://gitlab.com/artso003/crypto-cli)
+### 🛠️ Languages and Tools: 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=Github)
 ![GitLab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=Gitlab)
