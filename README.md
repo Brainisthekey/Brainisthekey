@@ -1,4 +1,4 @@
-![Header](https://github.com/Brainisthekey/Brainisthekey/blob/main/assets/profile%20image.png)
+![Header](https://github.com/Brainisthekey/Brainisthekey/blob/main/assets/Profile_image.png)
 
 ## Hey there, I'm Andrew 👋
 ### About me 🚀
