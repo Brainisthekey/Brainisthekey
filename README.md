@@ -24,6 +24,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-090909?style=for-the-badge&logo=Ubuntu)
 
 ### 📫  How to reach me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/andrii-alieksieiev-62a8b7212/)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/Brain_keyy)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/ne_budi_meniya)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/AndriiSpaycee)
