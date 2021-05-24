@@ -8,7 +8,7 @@
 #### In my free time I study programing and designing in Figma✍
 #### Also my passion is Photography and modern Art🖼️
 ### 💻 Latest project
-#### Curently work at Crypto CLI application💼
+#### Currently working at Crypto CLI application💼
 [![GitLab](https://img.shields.io/badge/-GitLab-2000b1?&logo=GitLab&)](https://gitlab.com/artso003/crypto-cli)
 ### 🛠️ Languages and Tools: 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
