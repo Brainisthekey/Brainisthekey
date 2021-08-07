@@ -5,7 +5,7 @@
 #### Currently working as a Junior Python Developer at STX Next 💼💻
 #### I enjoy learning new things🧠
 #### I'm currently studying in Wroclaw, Poland🌍
-#### In my free time I study programing and designing in Figma✍
+#### In my free time I enjoy learning programming and designing in Figma✍
 #### Also my passion is Photography and modern Art🖼️
 ### 💻 Latest project
 #### Currently working at Crypto CLI application💼
