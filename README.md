@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Andrew 👋
 ### About me 🚀
-#### Currently working as a Junior Python Developer at STX Next 💼💻
+#### Currently working as a Junior Python Developer 💼💻
 #### I enjoy learning new things🧠
 #### I'm currently studying in Wroclaw, Poland🌍
 #### In my free time I enjoy learning programming and designing in Figma✍
