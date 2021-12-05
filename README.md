@@ -2,17 +2,25 @@
 
 ## Hey there, I'm Andrew 👋
 ### About me 🚀
-#### Currently working as a Junior Python Developer at STX Next 💼💻
-#### I enjoy learning new things🧠
+#### Currently working as a Python Developer in a two projects 💼💻
+ - For one of the biggest [WEB application](https://en.wikipedia.org/wiki/Web_application) for multiple and multiplatform device managment
+  - Application for fully control and management for Small and medium-sized enterprises
+#### The study is my passion! I’m a constant learner with a passion for Software Design.🧠
+ - I enjoy taking on new and complex challenges
+#### Also my passion is Photography and modern Art🖼️
+ - I love photography on vintage cameras, where you have only one chance to take a good picture
 #### I'm currently studying in Wroclaw, Poland🌍
 #### In my free time I enjoy learning programming and designing in Figma✍
-#### Also my passion is Photography and modern Art🖼️
 ### 💻 Latest project
-#### Currently working at Crypto CLI application💼
+#### Crypto CLI application💼
 [![GitLab](https://img.shields.io/badge/-GitLab-2000b1?&logo=GitLab&)](https://gitlab.com/artso003/crypto-cli)
+
+#### Started a personal blog
+![Blog](https://img.shields.io/badge/Blogger-070719?style=for-the-badge&logo=blogger&logoColor=white)
 ### 🛠️ Languages and Tools: 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=607957)
+![Django-Rest](https://img.shields.io/badge/DRF-090909?style=for-the-badge&logo=django&logoColor=607957)
 ![Flask](https://img.shields.io/badge/-flask-090909?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=fb9902)
 ![CSS3](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=208efd)
