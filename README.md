@@ -16,7 +16,7 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-2000b1?&logo=GitLab&)](https://gitlab.com/artso003/crypto-cli)
 
 #### Started a personal blog
-![Blog](https://img.shields.io/badge/Blogger-070719?style=for-the-badge&logo=blogger&logoColor=white)
+[![Blog](https://img.shields.io/badge/Blogger-070719?style=for-the-badge&logo=blogger&logoColor=white)](https://brainisthekey.github.io/brainkey_blog/)
 ### 🛠️ Languages and Tools: 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=607957)
