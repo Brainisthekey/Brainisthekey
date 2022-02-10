@@ -11,7 +11,7 @@
  - I love photography using vintage cameras, where you have only one chance to take a good picture 📷
 #### Effective communication in 4 languages 🤝
 #### Knowing how and when to show empathy🦈
-#### Currently leave in Wroclaw, Poland🌍
+#### Currently live in Wroclaw, Poland🌍
 #### In my free time I enjoy designing in Figma✍
 ### 💻 Latest project
 #### Crypto CLI application💼
