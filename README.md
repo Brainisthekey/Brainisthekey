@@ -1,16 +1,18 @@
 ![Header](https://github.com/Brainisthekey/Brainisthekey/blob/main/assets/profile-git-hub.png)
 
 ## Hey there, I'm Andrew 👋
-### About me 🚀
-#### Currently working as a Python Developer in a two projects 💼💻
- - For one of the biggest [WEB application](https://en.wikipedia.org/wiki/Web_application) for multiple and multiplatform device managment
+### A few words about me 🚀
+#### Currently working as a Python Developer in two projects 💼💻
+ - For one of the biggest [WEB application](https://en.wikipedia.org/wiki/Web_application) UEM, ITAM, and MDM Software for Business
   - Application for fully control and management for Small and medium-sized enterprises
 #### The study is my passion! I’m a constant learner with a passion for Software Design.🧠
- - I enjoy taking on new and complex challenges
+ - I enjoy taking on new and complex challenges🤯
 #### Also my passion is Photography and modern Art🖼️
- - I love photography on vintage cameras, where you have only one chance to take a good picture
-#### I'm currently studying in Wroclaw, Poland🌍
-#### In my free time I enjoy learning programming and designing in Figma✍
+ - I love photography using vintage cameras, where you have only one chance to take a good picture 📷
+#### Effective communication in 4 languages 🤝
+#### Knowing how and when to show empathy🦈
+#### Currently leave in Wroclaw, Poland🌍
+#### In my free time I enjoy designing in Figma✍
 ### 💻 Latest project
 #### Crypto CLI application💼
 [![GitLab](https://img.shields.io/badge/-GitLab-2000b1?&logo=GitLab&)](https://gitlab.com/artso003/crypto-cli)
